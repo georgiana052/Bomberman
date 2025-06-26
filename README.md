@@ -6,12 +6,12 @@ Scopul Jocului
 Controlează-ți jucătorul, evită exploziile și inamicii, plasează bombe strategic și colectează bonusuri pentru a supraviețui cât mai mult timp. Ultimul jucător în viață câștigă!
 
 ▶️ Cum se joacă
-Jucător 1 (albastru): WASD pentru mișcare, Q - bombă, Z - imortalitate
-Jucător 2 (roșu): săgeți, ENTER - bombă, SHIFT DREAPTA - imortalitate
-Jucător 3 (verde): IJKL pentru mișcare, U - bombă, O - imortalitate
-Jucător 4 (mov): TFGH pentru mișcare, R - bombă, V - imortalitate
-ESC - revenire la meniu
-SPACE - pauză
+- Jucător 1 (albastru): WASD pentru mișcare, Q - bombă, Z - imortalitate
+- Jucător 2 (roșu): săgeți, ENTER - bombă, SHIFT DREAPTA - imortalitate
+- Jucător 3 (verde): IJKL pentru mișcare, U - bombă, O - imortalitate
+- Jucător 4 (mov): TFGH pentru mișcare, R - bombă, V - imortalitate
+- ESC - revenire la meniu
+- SPACE - pauză
 
 Elemente din joc
 'x' – Zid indestructibil
