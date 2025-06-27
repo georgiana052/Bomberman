@@ -36,7 +36,7 @@ cat4_img = pygame.transform.scale(cat4_img, (TILE, TILE))
 dog1_img = pygame.transform.scale(dog1_img, (TILE, TILE))
 dog2_img = pygame.transform.scale(dog2_img, (TILE, TILE))
 
-# Încarcă sunete (pune fișierele .wav în același director)
+# Încarcă sunete 
 try:
     sound_bomb_placed = pygame.mixer.Sound("bomb_place.wav")
     sound_explosion = pygame.mixer.Sound("bomb-explosion.wav")
@@ -283,7 +283,7 @@ clock = pygame.time.Clock()
 
 game_timer = 0
 
-MAX_GAME_TIME = 120 * 60  # 2a minute la 60 FPS
+MAX_GAME_TIME = 120 * 60  # 2 minute la 60 FPS
 obstacle_layer_index = 0  # pentru poziția curentă a înlocuirii circulare
 obstacle_positions = []   # lista pozițiilor pe marginea hărții pentru plasare obstacole
 
